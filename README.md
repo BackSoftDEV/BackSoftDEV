@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://wallpaperaccess.com/full/20912.jpg" width="100%" /> 
+  <img src="https://raw.githubusercontent.com/BackSoftDEV/BackSoftDEV/main/Bach.jpg" width="100%" alt="Bach Banner" />
 </p>
 
 ## 💻 Tech Stack:
