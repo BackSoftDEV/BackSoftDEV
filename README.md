@@ -1,7 +1,7 @@
 # <p align="center">Hey 👋 I'm Bach</p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=2ecc71&center=true&vCenter=true&width=600&lines=Fullstack+Developer;Backend:+Spring+Boot+%2B+Node.js;Frontend:+React+%2B+TypeScript;Database:+MySQL+%2B+SQL+Server" />
+  <img src="https://readme-typing-svg.demolab.com?font=Lobster&size=35&pause=1000&color=2ecc71&center=true&vCenter=true&width=400&lines=Fullstack+Developer" />
 </p>
 
 <p align="center">
