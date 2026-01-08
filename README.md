@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="" width="100%" alt="Bach Banner" />
+  <img src="https://raw.githubusercontent.com/BackSoftDEV/BackSoftDEV/main/Bach.png" width="100%" alt="Bach Banner" />
 </p>
 
 ## 💻 Tech Stack:
